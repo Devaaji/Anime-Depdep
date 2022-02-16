@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Anime-Depdep/static/css/main.81c09b52.css",
+    "main.js": "/Anime-Depdep/static/js/main.a8e83292.js",
+    "static/media/banner-anime3.png": "/Anime-Depdep/static/media/banner-anime3.db05c718aa4b883a2fc6.png",
+    "static/media/banner-anime.jpg": "/Anime-Depdep/static/media/banner-anime.ca2c02e41d7075f23ac2.jpg",
+    "static/media/banner-anime2.jpg": "/Anime-Depdep/static/media/banner-anime2.42a2daf0e5b0ef91a8b4.jpg",
+    "static/media/slick.svg": "/Anime-Depdep/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Anime-Depdep/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Anime-Depdep/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Anime-Depdep/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Anime-Depdep/index.html",
+    "main.81c09b52.css.map": "/Anime-Depdep/static/css/main.81c09b52.css.map",
+    "main.a8e83292.js.map": "/Anime-Depdep/static/js/main.a8e83292.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81c09b52.css",
+    "static/js/main.a8e83292.js"
+  ]
+}
